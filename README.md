@@ -1,2 +1,2 @@
 # PS-Scripts
-Photoshop Scripts
+Photoshop & Bridge Scripts
